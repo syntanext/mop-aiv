@@ -3,6 +3,16 @@ namespace mysql;
 
 if(!defined('MOP')){die('Direct access is not allow');}
 
+
+/*  
+ *  description:Run MYSQL query faster and get result in a reliable way.;
+ *  Version: 1.0.0;
+ *  Type: website version.
+ *  Recommended php version: >= 7;
+ *  website: https://github.com/bringittocode/mop-aiv
+ *  contact: bringittocode@gmail.com
+ */
+
 class configuration
 {
 public function config ()
@@ -22,14 +32,12 @@ public function config ()
 
         "injection" => 
         [
-            'username',
-            'password',
-            'mop',
+            
         ],
 
-        "masterkey" => 'key',
+        "masterkey" => 'your key',
 
-        "sqlkey" => 'key',
+        "sqlkey" => 'your key',
 
 
 
