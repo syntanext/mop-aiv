@@ -9,15 +9,12 @@ if(!defined('MOP')){die('Direct access is not allow');}
 
 /*  
  *  description:Run MYSQL query faster and get result in a reliable way.;
- *  Version: 2.1.3;
- *  Type: App inventor version.
+ *  Version: 1.0.0;
+ *  Type: website version.
  *  Recommended php version: >= 7;
- *  website: https://github.com/hazeezet/mysql
- *  contact: hazeezet@gmail.com
- * 
- * 
+ *  website: https://github.com/bringittocode/mop
+ *  contact: bringittocode@gmail.com
  */
-
 
 
   // Handling mysql error
