@@ -7,7 +7,7 @@ use mysql\mop as mysql;
  *  Version: 1.0.0;
  *  Type: website version.
  *  Recommended php version: >= 7;
- *  website: https://github.com/bringittocode/mop
+ *  website: https://github.com/bringittocode/mop-aiv
  *  contact: bringittocode@gmail.com
  */
 
