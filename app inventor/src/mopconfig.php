@@ -7,7 +7,7 @@ if(!defined('MOP')){die('Direct access is not allow');}
 /*  
  *  description:Run MYSQL query faster and get result in a reliable way.;
  *  Version: 1.0.0;
- *  Type: website version.
+ *  Type: App Inventor version.
  *  Recommended php version: >= 7;
  *  website: https://github.com/bringittocode/mop-aiv
  *  contact: bringittocode@gmail.com
