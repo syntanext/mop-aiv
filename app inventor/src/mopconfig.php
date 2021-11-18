@@ -32,10 +32,11 @@ public function config ()
 
         "injection" => 
         [
-            
+            'table names',
+            'database names'
         ],
 
-        "masterkey" => 'your key',
+        "masterkey" => 'your master key',
 
         "sqlkey" => 'your key',
 
