@@ -2,7 +2,7 @@
 ![MOP_logo](https://user-images.githubusercontent.com/52476329/137361314-296884d7-2b98-4069-b753-c20d15ac4c67.png)
 
 # Mysql Optimizer
-mysql optimizer also known as **MOP** is a **php query handling and manipulation** library providing easy and reliable way to manipulate query and get result in a fastest way.
+Mysql optimizer also known as **MOP** is a **php query handling and manipulation** library providing easy and reliable way to manipulate query and get result in a fastest way.
 
 ## Recomended Requirement
 - PHP >= 7
